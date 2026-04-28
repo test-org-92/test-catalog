@@ -30,7 +30,7 @@ entries:
 
     title: Compliance Overview
 
-    repo_url: https://github.com/apex-org/context-catalogs
+    repo_url: apex-org/context-catalogs
 
     source_path: docs/compliance/overview.md
 
@@ -40,7 +40,7 @@ entries:
 
     title: Audit Checklist
 
-    repo_url: https://github.com/apex-org/context-catalogs
+    repo_url: apex-org/context-catalogs
 
     source_path: docs/compliance/audit.md
 
