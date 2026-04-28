@@ -30,7 +30,7 @@ entries:
 
     title: Compliance Overview
 
-    repo_url: apex-org/context-catalogs
+    repo_url: org/context-catalogs
 
     source_path: docs/compliance/overview.md
 
