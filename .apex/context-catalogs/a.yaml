@@ -40,7 +40,7 @@ entries:
 
     title: Audit Checklist
 
-    repo_url: apex-org/context-catalogs
+    repo_url: org/context-catalogs
 
     source_path: docs/compliance/audit.md
 
