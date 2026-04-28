@@ -1,0 +1,26 @@
+apiVersion: apex/v1
+id: audit
+title: Process Audit
+description: Ensures compliance with financial regulations and audit readiness
+domain: Finance
+owners:
+- audit@company.com
+tags:
+- ap
+- compliance
+- audit
+entries:
+- id: compliance-overview
+  title: Compliance Overview
+  source:
+    type: github
+    path: docs/compliance/overview.md
+    repo_url: https://github.com/org/compliance-docs
+    resolved_ref: main
+- id: audit-checklist
+  title: Audit Checklist2
+  source:
+    type: github
+    path: docs/compliance/audit.md
+    repo_url: https://github.com/org/compliance-docs
+    resolved_ref: qa
