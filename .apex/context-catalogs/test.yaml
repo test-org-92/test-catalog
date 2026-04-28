@@ -1,0 +1,19 @@
+apiVersion: apex/v1
+id: test
+title: Test
+description: testing creating
+domain: Context
+owners:
+- avin
+- bharath
+tags:
+- context
+entries:
+- id: context-document
+  title: Context Document
+  description: it has context for application
+  source:
+    type: github
+    path: .apex/context-catalogs/audit.yaml
+    repo_url: https://github.com/test-org-92/test-catalog
+    resolved_ref: main
