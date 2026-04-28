@@ -15,12 +15,12 @@ entries:
   source:
     type: github
     path: docs/compliance/overview.md
-    repo_url: https://github.com/org/compliance-docs
+    repo_url: https://github.com/test-org/test-catalog
     resolved_ref: main
 - id: audit-checklist
   title: Audit Checklist2
   source:
     type: github
     path: docs/compliance/audit.md
-    repo_url: https://github.com/org/compliance-docs
+    repo_url: https://github.com/test-org/test-catalog
     resolved_ref: qa
